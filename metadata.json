@@ -1,0 +1,5 @@
+{
+  "name": "Calculateur de grossissement oculaire",
+  "description": "Une application simple et intuitive pour calculer le grossissement d'un télescope avec un oculaire, la pupille de sortie, et d'autres métriques importantes pour les astronomes amateurs.",
+  "requestFramePermissions": []
+}
